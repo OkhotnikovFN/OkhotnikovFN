@@ -42,11 +42,6 @@ Follow me:
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
 </div>
-
-<br/>
-<div align="center" style="margin:40px 0;">
-     <img width="175px" src="https://komarev.com/ghpvc/?username=OkhotnikovFN&color=DE002D">
-</div>
 <!--
 **OkhotnikovFN/OkhotnikovFN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
